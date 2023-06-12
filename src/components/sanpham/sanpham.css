@@ -1,0 +1,150 @@
+.reno-text{
+    margin: 15px 0 0 80px;
+}
+.reno{
+    display: flex;
+    height: 70vh;
+}
+.reno-1{
+    width: 30vw;
+    height: 30vh;
+    margin: 15px 0 0 80px;
+}
+.reno-line{
+    display: flex;
+    margin-top: 15px;
+}
+.reno-line h3{
+    color: red;
+    font-size: 30px;
+}
+.reno-line del{
+    margin: 15px 0 0 5px;
+    font-size: 17px;
+    text-decoration-line: line-through;
+}
+.reno-line h5{
+    margin: 15px 0 0 5px;
+    font-size: 17px;
+    font-weight: unset;
+}
+.reno-2{
+    font-weight: unset;
+    margin-top: 15px;
+}
+.reno-putton{
+    background-color: #00483e;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px #ccc;
+    font-size: 15px;
+    font-weight: 00;
+    width: 40vw;
+    height: 35px;
+    position: relative;
+    margin-top: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.icon-reno8T{
+    padding-right: 10px;
+    font-size: 20px;
+}
+.reno-3{
+    margin-top: 10px;
+}
+.reno-line-2{
+    border: 1px solid #00483e;
+    align-items: center;
+    margin-top: 6px;
+    width: 8vw;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.reno-checkbox{
+    margin: 5px 0 0 10px;
+}
+.reno-line-2 h4{
+    margin: 5px 0 5px 10px;
+    color: red;
+}
+.reno8T{
+    display: flex;
+}
+.reno8T-text{
+    color: #009a82;
+    margin: 8px 0 0 3px;
+}
+.reno8T-text-1{
+    font-weight: unset;
+    margin: 8px 0 0 3px;
+}
+.reno-putton-1{
+    background-image: linear-gradient(180deg,#fd475a 0%,#bf1e2d 100%);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px #ccc;
+    font-size: 15px;
+    width: 15vw;
+    height: 9vh;
+    position: relative;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+}
+.reno-putton-1 h5{
+    font-weight: unset;
+}
+.reno-putton-line{
+    display: flex;
+}
+.reno-putton-2{
+    background-image: linear-gradient(180deg,#ff990e 0%,#ff6801 100%);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px #ccc;
+    font-size: 15px;
+    width: 10vw;
+    height: 9vh;
+    margin-left: 10px;
+    position: relative;
+    margin-top: 15px;
+    text-align: center;
+}
+.icon-reno8T-1{
+    font-size: 20px;
+    margin-top: 9px;
+    color: white;
+}
+.reno-putton-2 h5{
+    color: white;
+}
+.reno8T-danhgia{
+    width: 1200px;
+    box-shadow: 0 2px 10px #00000029;
+    margin-left: 80px;
+    border-radius: 8px;
+}
+.danhgia-line{
+    display: flex;
+}
+.danhgia-text-1{
+    padding: 20px 0 0 80px;
+}
+.danhgia-rate{
+    padding: 20px 0 0 100px;
+}
+.comment{
+    display: flex;
+    padding: 20px 0 0 80px;
+}
+.comment-input{
+    padding-left: 20px;
+}
+.comment-input-1{
+    width: 20vw;
+    margin: 0 5px 10px 5px;
+}
+.comment-line{
+    width: 43vw;
+}

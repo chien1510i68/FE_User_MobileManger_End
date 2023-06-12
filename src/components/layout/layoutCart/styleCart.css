@@ -1,0 +1,88 @@
+.first-content{
+    background: #fff 0% 0% no-repeat padding-box;
+    box-shadow: 0 4px 6px #00000029;
+    border-radius: 8px;
+    padding: 15px;
+    width: 800px;
+    margin: 40px 0 0 200px;
+    display: flex;
+}
+.anh-first{
+    width: 180px;
+    height: 150px;
+    padding: 10px;
+}
+.first-line-1{
+    margin-left: 50px;
+}
+.first-line-2{
+    margin-left: 70px;
+}
+.first-1{
+    background-color: #d26217;
+    padding: 5px;
+    border-radius: 5px;
+}
+.first-2{
+    margin: 15px 0 15px 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
+.second-putton{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px 10px 5px 10px;
+    display: flex;
+    margin-left: 15px;
+}
+.second-text{
+    color: #666a67;
+    font-weight: unset;
+    text-align: center;
+}
+.second-input-1{
+    width: 525px;
+    margin: 15px 0 0 365px;
+}
+.second-line{
+    margin: 15px 0 0 365px;
+}
+.second-line-2{
+    display: flex;
+    margin: 15px;
+}
+.second-line-3{
+    margin-top: 15px;
+    width: 525px;
+}
+.last-content{
+    margin: 35px 0 0 200px;
+    background: #fff 0% 0% no-repeat padding-box;
+    box-shadow: 0 4px 6px #00000029;
+    border-radius: 8px;
+    padding: 15px;
+    width: 800px;
+}
+.last-content h3{
+    font-weight: unset;
+    padding: 15px 0 0 20px;
+}
+.last-content h5{
+    font-weight: unset;
+    padding-top: 20px;
+    text-align: center;
+}
+.first-dem-so{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.demso-1{
+    font-size: 16px;
+    margin: 0px 12px 0 10px;
+}
+.last-button{
+    width: 100px;
+    height: 20px;
+}
